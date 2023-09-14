@@ -1,0 +1,20 @@
+* {
+    font-family: 'EB Garamond', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn {
+    color: white;
+}
+
+.btn:hover {
+    background-color: white;
+    color: #FFC107;
+}
+
+.banner-bg {
+    background-image: url(images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
