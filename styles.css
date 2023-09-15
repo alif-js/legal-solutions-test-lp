@@ -1,7 +1,7 @@
 * {
     font-family: 'EB Garamond', serif;
-    font-family: 'Open Sans', sans-serif;
-    font-family: 'Poppins', sans-serif;
+    /* font-family: 'Open Sans', sans-serif; */
+    /* font-family: 'Poppins', sans-serif; */
 }
 
 .btn {
@@ -17,4 +17,24 @@
     background-image: url(images/banner.png);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.gradient-bg {
+    background-image: linear-gradient(#E7E7E7, white);
+}
+.slider-image-height{
+    height: 75vh;
+}
+.slider-bg-img{
+    filter: brightness(50%);
+}
+.slider-profile-img{
+    width: 70px;
+    height: 70px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+.faq-btn-color{
+    background-color: #f3f3f3;
 }
